@@ -1,0 +1,14 @@
+{
+  "finetuning_type": "lora",
+  "lora_alpha": 32.0,
+  "lora_dropout": 0.1,
+  "lora_rank": 8,
+  "lora_target": [
+    "query_key_value",
+    "dense_h_to_4h",
+    "dense_4h_to_h"
+  ],
+  "name_module_trainable": "mlp,self_attention",
+  "num_hidden_layers": 32,
+  "num_layer_trainable": 3
+}

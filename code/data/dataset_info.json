@@ -1,0 +1,43 @@
+{
+
+  "CoT_Chinese_data": {
+    "file_name": "CoT_Chinese_data.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": ""
+    }
+  },
+
+  "self": {
+    "file_name": "self.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": ""
+    }
+  },
+
+  "judgement": {
+    "file_name": "judgement.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": ""
+    }
+  },
+
+  "merge": {
+    "file_name": "merge",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": ""
+    }
+  }
+  
+}
